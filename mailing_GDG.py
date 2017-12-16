@@ -6,7 +6,7 @@ from email.mime.multipart import MIMEMultipart
 email_id = 'please enter your mail ID'
 email_password = 'please enter your password'
 
-#this is what I sent you a while back,others** leave this
+#this is what I sent you a while back,others** leave this not the below but this comment...
 
 subject = 'regarding the python task'  #write your subject here
 
